@@ -21,3 +21,9 @@ header, footer {
     color: #333;
     padding: 20px;
 }
+
+.header-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
