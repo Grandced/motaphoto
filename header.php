@@ -15,10 +15,9 @@
         </a>
         <!-- Menu de navigation -->
         <nav class="site-nav">
-        <nav class="site-nav">
         <?php
         wp_nav_menu(array(
-            'theme_location' => 'header-menu', // Assure-toi que l'emplacement est correct
+            'theme_location' => 'primary-menu', // Assure-toi que l'emplacement est correct
             'menu_class' => 'nav-list',
             'container' => false, // Supprime le conteneur par défaut
         ));
