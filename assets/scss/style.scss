@@ -1,0 +1,9 @@
+/* Import des fichiers partiels */
+@import 'variables';
+@import 'mixins';
+@import 'header';
+@import 'footer';
+@import 'modal';
+body{ 
+    background-color: rgb(20, 63, 143);
+}

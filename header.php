@@ -24,7 +24,7 @@
         ?>
         </nav>
     </div> 
-    
+
 <!-- image du header -->
     <?php
     $image_url = get_template_directory_uri() . '/assets/images/header.png';
